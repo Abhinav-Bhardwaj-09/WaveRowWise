@@ -23,7 +23,7 @@ public class RowWise {
         }
 
 
-        System.out.print("Start, ");
+        System.out.print("START, ");
         for (int row = 0; row < rows; row++) {
             if(row % 2 == 0) {
                 int col = 0;    // initializing row with top
