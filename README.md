@@ -9,5 +9,5 @@ Input Format
 
 Output Format
 
-    All M * N integers are seperated by commas in between 'Start' and 'END' written in
+    All M * N integers are seperated by commas in between 'START' and 'END' written in
     the start and end respectively.
